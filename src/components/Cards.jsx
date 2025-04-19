@@ -18,6 +18,7 @@ function cards({name,desc,image}) {
     <h2 className="">
       {name}
     </h2>
+    <h2>usman</h2>
     <p className="">
       {desc}
     </p>
